@@ -2,7 +2,7 @@
 
 A notepad application in Java is a simple text editor that allows users to create, edit, save, and open text documents. It provides a basic user interface where users can type and manipulate text, similar to the default Notepad application in Windows.
 
-# Key features of a typical notepad application in Java may include:
+## Key features of a typical notepad application in Java may include:
 
 # User Interface: 
 The application should have a clean and intuitive graphical user interface (GUI) that allows users to interact with the text editor easily.
